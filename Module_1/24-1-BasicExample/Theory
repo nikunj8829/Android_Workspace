@@ -1,0 +1,54 @@
+Android
+->C++[NDK-Native Development Kit]
+->Java[JDK-Java Development Kit]
+->Kotlin[JDK]
+
+
+JDK[]
+->Link-> https://www.techspot.com/downloads/5198-java-jre.html
+1.download
+2.Install
+3.Set the Path
+
+Path : C:\Program Files\Java\jdk1.8.0_191\bin
+
+This pc->Right Click->Properties->Advanced system settings->
+Environment Variables->Path->Edit ->paste your path->Click on OK
+
+and open your CMD and type javac
+
+Software:
+Eclipse
+IntelijIDEA - https://www.jetbrains.com/idea/download/#section=windows
+
+
+
+Java-Method Based Programming Language
+Kotlin-Functional Based Programming Language(Functions)
+
+
+Functions keyword is a "fun";
+
+
+"Tops Tech"
+
+data type:
+
+integer -numeric value
+float - decimal value(4 byte)
+character - 'A'
+double - decimal value (8 byte)
+string -  " "
+boolean- true,false
+
+
+
+
+var - mutable[can change]
+val - immutable[can not change]
+
+
+<
+>
+<=
+>=
