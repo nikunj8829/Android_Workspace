@@ -1,19 +1,39 @@
-var and val
-nested if
+==> var and val Diffrence
+
+==> Conditional Statement:
+    if
+    else
+    else if
+    nested if
 
 
-Conditional Statement:
+    switch-case[c,c++,Java]
+    when[Kotlin]
+    
+==> Operators
 
-1)
-if
-else
-else if
-nested if
+    Three Types of Operator
 
-2)
-switch-case[c,c++,Java]
-when[Kotlin]
+   1)Arithmatic Operator
+    +   a.plus(b)
+    -   a.minus(b)
+    *   a.times(b)
+    /   a.div(b)
+    %   a.rem(b)
 
+    2)Relational Operator
+    >
+    <
+    >=
+    <=
+    =    =>Value Assign
+    ==   =>Compare
+    !=   =>NotEqule
 
-=
-==
+3)Assignment Operator
+ Operator               Expression
+   +=                  a+=b    (a=a+b)
+   -=                  a-=b    (a=a-b)
+   *=                  a*=b    (a=a*b)
+   /=                  a/=b    (a=a/b)
+   %=                  a%=b    (a=a%b)
