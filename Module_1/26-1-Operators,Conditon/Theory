@@ -30,7 +30,7 @@
     ==   =>Compare
     !=   =>NotEqule
 
-3)Assignment Operator
+3)Assignment Operator(Shorthand Operator)
  Operator               Expression
    +=                  a+=b    (a=a+b)
    -=                  a-=b    (a=a-b)
