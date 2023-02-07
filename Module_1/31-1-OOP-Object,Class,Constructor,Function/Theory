@@ -1,0 +1,47 @@
+OOP:[Object Oriented Programming]
+
+Features of OOP
+
+1)Object :Any Entity Which has own state and behaviour
+=>
+2)Class:Collection of Objects 
+=>
+3)Abstraction
+4)Encapsulation
+5)Inheritance
+6)Polymorphism
+
+local
+global
+
+User Number
+
+2*2
+2*2*2
+Square
+Cube
+
+
+syntax:
+var objname = classname()
+
+Student- Class
+
+//object
+var a1 = Student()
+var a2 = Student()
+var a3 = Student()
+
+
+parameter[arguments]:
+
+/*
+class Tops(var name)//parameter
+{
+
+    //body part
+
+    //variable
+    var name=""
+
+}*/
