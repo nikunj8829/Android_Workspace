@@ -1,0 +1,34 @@
+Array->Collection of Items
+
+Symbol - []
+
+int marks[500]-size
+
+index-0
+
+Multiple value can be storead in array from diffrent data type
+
+Fixed Value
+
+User Input Value
+
+Inheritance:When one object acquire all the properties and behaviour of parent class
+
+
+Two Type of Class:
+
+1)parent->Give
+
+2)child->Take
+
+
+Types of Inheritance
+1)Single Inheritance
+2)Multilevel Inheritance
+3)Multiple Inheritance
+4)Hieararchical Inheritace
+5)Hybrid Inheritance
+
+interface:collection of abstract methods
+
+void a()
