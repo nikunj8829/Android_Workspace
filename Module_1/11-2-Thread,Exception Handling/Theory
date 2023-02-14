@@ -1,0 +1,23 @@
+Thread:Process Handle
+
+class :Thread
+
+Interface :Runnable
+
+Thread Lifecycle:
+1)init
+2)start
+3)run
+4)stop
+5)destroy
+
+synchronized Thread
+
+Exception-Errors
+
+Keywords:
+1)try
+2)catch
+3)throw
+4)throws
+5)finally
