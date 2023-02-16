@@ -1,0 +1,58 @@
+WAMP
+W=>Windows
+A=>Apache
+M=>MYSQL
+P=>Phpmyadmin
+
+LAMP
+L=>Linux
+A=>Apache
+M=>MYSQL
+P=>Phpmyadmin
+
+MAMP
+M=>Mac
+A=>Apache
+M=>MYSQL
+P=>Phpmyadmin
+
+XAMPP
+X=>Cross Platform
+A=>Apache
+M=>MYSQL
+P=>Perl
+P=>Phpmyadmin
+
+XAMPP
+Apache -Server
+MYSQL -Database
+
+
+Collection Framework:
+Class+interface+functions
+
+1)
+List:
+
+Immutable:Can not Change
+listof
+
+
+Mutable
+mutablelistof
+
+ArrayList<E>
+
+
+2)
+Set:
+
+setof
+mutablesetof
+Hashset
+
+3)Vector
+
+4)Stack
+
+5)HashMap
