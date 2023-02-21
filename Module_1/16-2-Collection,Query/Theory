@@ -1,0 +1,47 @@
+ Create Database
+
+1)  CREATE DATABASE topstechonology;
+================================================================================================
+
+  Create Table
+
+2) CREATE TABLE student(id int PRIMARY KEY AUTO_INCREMENT,name varchar(50),phonenumber int(15));
+
+3)CREATE TABLE faculty(id int PRIMARY KEY AUTO_INCREMENT,name varchar(50),phonenumber int(15));
+================================================================================================
+
+   Add Column
+
+4)ALTER TABLE student ADD student_course_detail varchar(100)
+=================================================================================================
+  
+  Particular column after column add
+
+5)ALTER TABLE student ADD email varchar(50) AFTER name;
+ ===============================================================================================
+
+  DataType Changed
+
+6) ALTER TABLE student MODIFY phonenumber varchar(20);
+================================================================================================
+
+Rename Column
+
+7)ALTER TABLE student CHANGE name Student_Name varchar(100);
+=================================================================================================
+Remove Column
+
+8)ALTER TABLE student DROP student_course_detail;
+=================================================================================================
+Only Data Delete Structure 
+
+9)TRUNCATE TABLE student;
+================================================================================================
+Drop Table
+
+10) DROP TABLE student;
+=================================================================================================
+Rename Table
+
+11)RENAME TABLE faculty TO Students;
+=================================================================================================
